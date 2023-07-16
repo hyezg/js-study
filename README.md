@@ -3,7 +3,7 @@
 
 - - -
 ## 23.07.07~23.07.23
-### 1강~6강
+1강~6강
 <img src="/js_study-04.jpg" width="450px" height="700px">
 
 <img src="/js_study-05.jpg" width="450px" height="700px">
