@@ -3,7 +3,7 @@
 
 - - -
 ## 1장 프로그래밍
-<img src="/0601a/혜정/0716.png">
+<img src="/path/to/0716.png" width="40% height="30%" title="1" alt=""> 
 - - -
 ## 2장
 - - -
