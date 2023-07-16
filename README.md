@@ -3,7 +3,7 @@
 
 - - -
 ## 1장 프로그래밍
-
+<img src="/path/to/js_study-04.jpg">
 - - -
 ## 2장
 - - -
