@@ -22,3 +22,4 @@ function changeText1() {
 function changeText2() {
     document.getElementsByTagName('h1')[2].innerHTML="코딩";
 }
+//https://sgcomputer.tistory.com/206 
